@@ -6,11 +6,11 @@
 
 ---
 
-## 🎯 Resume Claims Covered
+## 🎯 Core Technical Competencies
 
-| Claim ID   | Capability                           | Deliverable                                                                   |
-| :--------- | :----------------------------------- | :---------------------------------------------------------------------------- |
-| **EDU_CSULA_04** | Digital Logic & FPGA Architecture | A Verilog/VHDL repository linking to the ASIC hardware spec capability. |
+| Capability                           | Deliverable                                                                   |
+| :----------------------------------- | :---------------------------------------------------------------------------- |
+| Digital Logic & FPGA Architecture | A Verilog/VHDL repository linking to the ASIC hardware spec capability. |
 
 ---
 
