@@ -2,21 +2,21 @@
 
 **Digital Logic & ASIC Hardware Design**
 
-> A repository demonstrating proficiency in Register-Transfer Level (RTL) hardware design using Verilog, specifically focusing on low-level Cyber-Physical interfaces like Serial Peripheral Interface (SPI) protocols for ASIC integration.
+> A project demonstrating proficiency in Register-Transfer Level (RTL) hardware design using Verilog, specifically focusing on low-level Cyber-Physical interfaces like Serial Peripheral Interface (SPI) protocols for ASIC integration.
 
 ---
 
 ## 🎯 Core Technical Competencies
 
-| Capability                           | Deliverable                                                                   |
-| :----------------------------------- | :---------------------------------------------------------------------------- |
-| Digital Logic & FPGA Architecture | A Verilog/VHDL repository linking to the ASIC hardware spec capability. |
+| Claim ID   | Capability                           | Deliverable                                                                   |
+| :--------- | :----------------------------------- | :---------------------------------------------------------------------------- |
+| **EDU_CSULA_04** | Digital Logic & FPGA Architecture | A Verilog/VHDL architecture linking to the ASIC hardware spec capability. |
 
 ---
 
 ## 🏗️ Technical Architecture
 
-This repository contains the RTL design and testbenches for a standard SPI Master module, commonly used to interface embedded Jetson/ARM environments with discrete ASIC sensors (like the IMUs modeled in `gyroscope-firmware-mock`).
+This codebase contains the RTL design and testbenches for a standard SPI Master module, commonly used to interface embedded Jetson/ARM environments with discrete ASIC sensors (like the IMUs modeled in `gyroscope-firmware-mock`).
 
 ### Directory Structure
 
