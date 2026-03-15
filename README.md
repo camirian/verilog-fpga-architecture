@@ -4,6 +4,8 @@
 
 > A project demonstrating proficiency in Register-Transfer Level (RTL) hardware design using Verilog, specifically focusing on low-level Cyber-Physical interfaces like Serial Peripheral Interface (SPI) protocols for ASIC integration.
 
+[View the Structural Roadmap](ROADMAP.md)
+
 ---
 
 ## 🎯 Core Technical Competencies
